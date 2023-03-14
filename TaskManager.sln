@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Core", "Core\Core.csproj", "{D1C5DB1E-D0BE-40E2-86D2-A35CC3BCCF0C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UI", "UI\UI.csproj", "{2492EE86-A9C8-43EB-BC9F-BA2035704E29}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D1C5DB1E-D0BE-40E2-86D2-A35CC3BCCF0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1C5DB1E-D0BE-40E2-86D2-A35CC3BCCF0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1C5DB1E-D0BE-40E2-86D2-A35CC3BCCF0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1C5DB1E-D0BE-40E2-86D2-A35CC3BCCF0C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2492EE86-A9C8-43EB-BC9F-BA2035704E29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2492EE86-A9C8-43EB-BC9F-BA2035704E29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2492EE86-A9C8-43EB-BC9F-BA2035704E29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2492EE86-A9C8-43EB-BC9F-BA2035704E29}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A354864A-56C7-4360-B23E-819E3933CA82}
+	EndGlobalSection
+EndGlobal
